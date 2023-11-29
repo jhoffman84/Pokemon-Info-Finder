@@ -6,7 +6,7 @@ import pandas as pd
 
 def title():
     st.header("Pokemon Info Finder")
-    st.image("images/International_Pokémon_logo.png")
+    st.image("International_Pokémon_logo.png")
     st.write("Input your Generation of Pokemon in here and we will find what pokemon appeared for the first time in your Generation!")
 
 title()
